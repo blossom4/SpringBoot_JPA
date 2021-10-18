@@ -96,3 +96,5 @@ JUnit 4 = @RunWith(SpringRunner.class)
 @Test 를 사용하기 위한 import가 import org.junit.jupiter.api.Test; 이어야한다.
 
 어떤 것을 import할 때 @~~~~(여기 내부에서 부르면 error가 생긴다.) 따라서 외부에서 미리 improt를 하고 안에서 사용해야한다.
+
+build.gradle에 devtools 의존성을 추가하고 적용이 계속안되었었는데 project ->우클릭->gradle->refresh하니까 드디어 적용되었다....
