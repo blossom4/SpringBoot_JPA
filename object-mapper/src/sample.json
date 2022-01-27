@@ -1,0 +1,16 @@
+{
+	"name" : "pepe",
+	"age" : 7,
+	"cars" : [
+		{
+			"name" : "Mercedes Benz",
+			"car_number" : "11가 1111",
+			"TYPE" : ""
+		},
+		{
+			"name" : "Ferrari",
+			"car_number" : "22나 2222",
+			"TYPE" : ""
+		}
+	]
+}
